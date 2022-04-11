@@ -1,0 +1,33 @@
+<div class="card">
+    <img src="<?php echo BASE_URL."/assest/images/11insta.png"; ?>" class="card-img-top" alt="poduct-image"/>
+    <div class="card-body">
+      <h5 class="card-title">Card title</h5>
+      <p class="card-text">Price</p>
+    </div>
+    <div class="card-footer btn-group">
+    <button type="button" class="btn btn-success ">Update</button>
+<button type="button" class="btn btn-danger" style="margin-left:2px;">Delete</button>
+    </div>
+  </div>
+  <div class="card">
+    <img src="<?php echo BASE_URL."/assest/images/11insta.png"; ?>" class="card-img-top" alt="poduct-image"/>
+    <div class="card-body">
+      <h5 class="card-title">Card title</h5>
+      <p class="card-text">Price</p>
+    </div>
+    <div class="card-footer btn-group">
+    <button type="button" class="btn btn-success ">Update</button>
+<button type="button" class="btn btn-danger" style="margin-left:2px;">Delete</button>
+    </div>
+  </div>
+  <div class="card">
+    <img src="<?php echo BASE_URL."/assest/images/11insta.png"; ?>" class="card-img-top" alt="poduct-image"/>
+    <div class="card-body">
+      <h5 class="card-title">Card title</h5>
+      <p class="card-text">Price</p>
+    </div>
+    <div class="card-footer btn-group">
+    <button type="button" class="btn btn-success ">Update</button>
+<button type="button" class="btn btn-danger" style="margin-left:2px;">Delete</button>
+    </div>
+  </div>
